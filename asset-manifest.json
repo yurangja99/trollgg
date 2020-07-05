@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/trollgg/static/css/main.d2a3520b.chunk.css",
-    "main.js": "/trollgg/static/js/main.eacbc611.chunk.js",
-    "main.js.map": "/trollgg/static/js/main.eacbc611.chunk.js.map",
+    "main.css": "/trollgg/static/css/main.01794f56.chunk.css",
+    "main.js": "/trollgg/static/js/main.d0f7c35c.chunk.js",
+    "main.js.map": "/trollgg/static/js/main.d0f7c35c.chunk.js.map",
     "runtime-main.js": "/trollgg/static/js/runtime-main.3f981f92.js",
     "runtime-main.js.map": "/trollgg/static/js/runtime-main.3f981f92.js.map",
     "static/js/2.73b94b61.chunk.js": "/trollgg/static/js/2.73b94b61.chunk.js",
     "static/js/2.73b94b61.chunk.js.map": "/trollgg/static/js/2.73b94b61.chunk.js.map",
     "index.html": "/trollgg/index.html",
-    "precache-manifest.f83ad08e0da1b581bb4e90451f9ad6d7.js": "/trollgg/precache-manifest.f83ad08e0da1b581bb4e90451f9ad6d7.js",
+    "precache-manifest.c805ff10fe20efe5b911e05b9567c5b5.js": "/trollgg/precache-manifest.c805ff10fe20efe5b911e05b9567c5b5.js",
     "service-worker.js": "/trollgg/service-worker.js",
-    "static/css/main.d2a3520b.chunk.css.map": "/trollgg/static/css/main.d2a3520b.chunk.css.map",
+    "static/css/main.01794f56.chunk.css.map": "/trollgg/static/css/main.01794f56.chunk.css.map",
     "static/js/2.73b94b61.chunk.js.LICENSE.txt": "/trollgg/static/js/2.73b94b61.chunk.js.LICENSE.txt",
     "static/media/BRONZE.png": "/trollgg/static/media/BRONZE.39964f7f.png",
     "static/media/CHALLENGER.png": "/trollgg/static/media/CHALLENGER.4aaf9754.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.3f981f92.js",
     "static/js/2.73b94b61.chunk.js",
-    "static/css/main.d2a3520b.chunk.css",
-    "static/js/main.eacbc611.chunk.js"
+    "static/css/main.01794f56.chunk.css",
+    "static/js/main.d0f7c35c.chunk.js"
   ]
 }

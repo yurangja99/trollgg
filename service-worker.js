@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trollgg/precache-manifest.f83ad08e0da1b581bb4e90451f9ad6d7.js"
+  "/trollgg/precache-manifest.c805ff10fe20efe5b911e05b9567c5b5.js"
 );
 
 self.addEventListener('message', (event) => {
