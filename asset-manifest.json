@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trollgg/static/css/main.01794f56.chunk.css",
-    "main.js": "/trollgg/static/js/main.d0f7c35c.chunk.js",
-    "main.js.map": "/trollgg/static/js/main.d0f7c35c.chunk.js.map",
+    "main.js": "/trollgg/static/js/main.1ce826f2.chunk.js",
+    "main.js.map": "/trollgg/static/js/main.1ce826f2.chunk.js.map",
     "runtime-main.js": "/trollgg/static/js/runtime-main.3f981f92.js",
     "runtime-main.js.map": "/trollgg/static/js/runtime-main.3f981f92.js.map",
     "static/js/2.73b94b61.chunk.js": "/trollgg/static/js/2.73b94b61.chunk.js",
     "static/js/2.73b94b61.chunk.js.map": "/trollgg/static/js/2.73b94b61.chunk.js.map",
     "index.html": "/trollgg/index.html",
-    "precache-manifest.c805ff10fe20efe5b911e05b9567c5b5.js": "/trollgg/precache-manifest.c805ff10fe20efe5b911e05b9567c5b5.js",
+    "precache-manifest.7c4b2f41b9e4e5e91072fd737e206c0b.js": "/trollgg/precache-manifest.7c4b2f41b9e4e5e91072fd737e206c0b.js",
     "service-worker.js": "/trollgg/service-worker.js",
     "static/css/main.01794f56.chunk.css.map": "/trollgg/static/css/main.01794f56.chunk.css.map",
     "static/js/2.73b94b61.chunk.js.LICENSE.txt": "/trollgg/static/js/2.73b94b61.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.3f981f92.js",
     "static/js/2.73b94b61.chunk.js",
     "static/css/main.01794f56.chunk.css",
-    "static/js/main.d0f7c35c.chunk.js"
+    "static/js/main.1ce826f2.chunk.js"
   ]
 }

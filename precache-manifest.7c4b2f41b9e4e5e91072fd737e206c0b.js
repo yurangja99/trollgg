@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f0e2dea359a6c89dc57b2bdf1f375fa",
+    "revision": "e775fb4032a24a925692caac648a1de1",
     "url": "/trollgg/index.html"
   },
   {
-    "revision": "e9394f49fc18e6e4f7aa",
+    "revision": "d9318a09e33ce9ec5c6f",
     "url": "/trollgg/static/css/main.01794f56.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trollgg/static/js/2.73b94b61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9394f49fc18e6e4f7aa",
-    "url": "/trollgg/static/js/main.d0f7c35c.chunk.js"
+    "revision": "d9318a09e33ce9ec5c6f",
+    "url": "/trollgg/static/js/main.1ce826f2.chunk.js"
   },
   {
     "revision": "40697aceed25161549f7",
